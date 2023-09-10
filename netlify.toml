@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = "noticias-cidade.html"
+status = 200
