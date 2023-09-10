@@ -1,4 +1,4 @@
 [[redirects]]
 from = "/*"
-to = "noticias-cidade.html"
+to = "noticia-cidade.html"
 status = 200
