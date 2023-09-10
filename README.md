@@ -1,14 +1,14 @@
-# 📚 Sobre
- Notícias Cidade é um website fictício de notícias, com o intuito de gerar notícias da cidade em geral, foi criado e desenvolvido juntamente com o curso Udemy.
+# 📚 About
+  Notícias Cidade is a fictional news website, with the aim of generating news about the city in general, it was created and developed together with the Udemy course.
 <hr>
 
-## Detalhes
-Foi criado e desenvolvido apenas para aprofundamento de conhecimentos
+## Details
+It was created and developed solely to deepen knowledge
 
- ## 💻Tecnologias utilizadas
+  ## 💻Technologies used
 - HTML <br>
-- CSS
+-CSS
 
-## 👩‍💻Acesse o Site
-Hospedado no netlify <br>
+## 👩‍💻Access the Website
+Hosted on netlify <br>
 https://noticiascity.netlify.app
