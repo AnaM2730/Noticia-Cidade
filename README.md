@@ -11,4 +11,4 @@ Foi criado e desenvolvido apenas para aprofundamento de conhecimentos
 
 ## 👩‍💻Acesse o Site
 Hospedado no netlify <br>
-https://noticiiascidade.netlify.app
+https://noticiascity.netlify.app
